@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/npm-boilerplate.svg)](https://badge.fury.io/js/npm-boilerplate.js)  ![Dependencies](https://david-dm.org/toubou91/npm-boilerplate.svg)
 # npm-boilerplate
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+> A boilerplate to create NPM packages.
 
 ## Install
 [![https://nodei.co/npm/npm-boilerplate.png](https://nodei.co/npm/npm-boilerplate.png)](https://www.npmjs.com/package/npm-boilerplate)
