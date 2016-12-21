@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/npm-boiler.svg)](https://badge.fury.io/js/npm-boiler.js)  ![Dependencies](https://david-dm.org/toubou91/npm-boiler.svg)
+[![npm version](https://badge.fury.io/js/npm-boiler.svg)](https://badge.fury.io/js/npm-boiler.js)  ![Dependencies](https://david-dm.org/toubou91/npm-boilerplate.svg)
 # npm-boilerplate
 > A boilerplate to create NPM packages.
 
