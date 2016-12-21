@@ -1,0 +1,26 @@
+{
+  "name": "npm-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to create NPM packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover  jasmine-node spec"
+  },
+  "repository": {
+    "url": "git+https://github.com/toubou91/npm-boilerplate.git",
+    "type": "git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Thodoris Bais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toubou91/npm-boilerplate/issues"
+  },
+  "homepage": "https://github.com/toubou91/npm-boilerplate#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine-node": "^1.14.5"
+  }
+}
