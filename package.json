@@ -1,6 +1,6 @@
 {
   "name": "is-java-keyword",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Determine whether a string is a Java keyword.",
   "main": "index.js",
   "scripts": {
