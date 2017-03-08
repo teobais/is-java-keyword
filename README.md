@@ -1,21 +1,21 @@
-[![npm version](https://badge.fury.io/js/npm-boiler.svg)](https://badge.fury.io/js/npm-boiler.js)  ![Dependencies](https://david-dm.org/toubou91/npm-boilerplate.svg)
-# npm-boilerplate
-> A boilerplate to create NPM packages.
+[![npm version](https://badge.fury.io/js/is-java-keyword.svg)](https://badge.fury.io/js/is-java-keyword.js)  ![Dependencies](https://david-dm.org/toubou91/is-java-keyword.svg)
+# is-java-keyword
+> Determine whether a string is a Java keyword.
 
 ## Install
-[![https://nodei.co/npm/npm-boilerplate.png](https://nodei.co/npm/npm-boiler.png)](https://www.npmjs.com/package/npm-boiler)
+[![https://nodei.co/npm/is-java-keyword.png](https://nodei.co/npm/is-java-keyword.png)](https://www.npmjs.com/package/is-java-keyword)
 
 ## Use
 ```javascript
 // load the module
-var boilerplate = require('boilerplate.js');
+var isKeyword = require('index.js');
 
-// call a method
-boilerplate.boil();
+// check a keyword
+isKeyword("while"); // true
 ```
 
 ## Test
-To execute the library's tests, first install the project dependencies:
+To execute tests, first install the project dependencies:
 
 ```
 $ npm install

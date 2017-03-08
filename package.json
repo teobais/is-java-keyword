@@ -1,24 +1,26 @@
 {
-  "name": "npm-boiler",
+  "name": "is-java-keyword",
   "version": "1.0.1",
-  "description": "A boilerplate to create NPM packages",
+  "description": "Determine whether a string is a Java keyword.",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover  jasmine-node spec"
   },
   "repository": {
-    "url": "git+https://github.com/toubou91/npm-boilerplate.git",
+    "url": "git+https://github.com/toubou91/is-java-keyword.git",
     "type": "git"
   },
   "keywords": [
-    "boilerplate"
+    "keywords",
+    "java",
+    "preserved"
   ],
   "author": "Thodoris Bais",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toubou91/npm-boilerplate/issues"
+    "url": "https://github.com/toubou91/is-java-keyword/issues"
   },
-  "homepage": "https://github.com/toubou91/npm-boilerplate#readme",
+  "homepage": "https://github.com/toubou91/is-java-keyword#readme",
   "devDependencies": {
     "istanbul": "^0.4.5",
     "jasmine-node": "^1.14.5"
